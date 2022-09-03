@@ -1,2 +1,3 @@
-# cves-pa1
-Programming Assignment for CAM2 Computer Vision for Embedded Systems Team
+# Computer Vision for Embedded Systems Programming Assignment 1
+
+Instructions for the assignment are in the Python notebook.
